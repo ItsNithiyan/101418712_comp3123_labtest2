@@ -1,4 +1,4 @@
-/* Global Styles */
+
 body {
   font-family: 'Arial', sans-serif;
   background-color: #f0f4f8;
@@ -11,14 +11,14 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url('https://www.w3schools.com/w3images/clouds.jpg'); /* Background image */
+  background-image: url('https://www.w3schools.com/w3images/clouds.jpg'); 
   background-size: cover;
   background-position: center;
 }
 
-/* Weather Card Styles */
+
 .weather-card {
-  background: rgba(0, 0, 0, 0.6); /* Transparent black background */
+  background: rgba(0, 0, 0, 0.6); 
   color: white;
   border-radius: 15px;
   padding: 30px;
